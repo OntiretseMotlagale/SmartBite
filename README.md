@@ -1,0 +1,2 @@
+# SmartBite
+A CaloriBuddy app
